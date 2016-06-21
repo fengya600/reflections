@@ -1,0 +1,13 @@
+gui look fine.
+
+use github
+
+pros more logical   cons more work
+
+
+use git log to see the history, use git diff to see the different.
+
+
+use commit to see every edit.
+
+to control my programe version.
